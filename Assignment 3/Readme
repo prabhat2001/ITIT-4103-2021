@@ -1,4 +1,4 @@
-In this assignment I will generate 50 data points (one-dimensional problem) with x uniform distance from (0,1) with generating y from the formula y=sin(1+x^2)+noise.
+In this assignment I will generate 50 data points (one-dimensional problem) with x uniform distance from (0,1) and generating y from the formula y=sin(1+x^2)+noise.
 Where noise has (0,0.032)distribution. Later, Dividing the data into training and test (8:2) and implementing
 1) Linear regression models using the closed form solution on training data
 2) Polynomial regression models using the closed form solution on training data
